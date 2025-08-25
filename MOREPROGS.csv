@@ -1,0 +1,190 @@
+﻿Name,Chords,Category,Description
+C Pop Standard,C | G | Am | F,Pop,Classic four-chord loop in key of C
+G Pop Standard,G | D | Em | C,Pop,"Same loop, transposed to G"
+D Pop Standard,D | A | Bm | G,Pop,"Same loop, transposed to D"
+A Pop Standard,A | E | F#m | D,Pop,"Same loop, transposed to A"
+E Pop Standard,E | B | C#m | A,Pop,"Same loop, transposed to E"
+F Pop Standard,F | C | Dm | Bb,Pop,"Same loop, transposed to F"
+Bb Pop Standard,Bb | F | Gm | Eb,Pop,"Same loop, transposed to Bb"
+C Ballad Flow,C | Am | F | G,Ballad,Gentle descending pop ballad
+G Ballad Flow,G | Em | C | D,Ballad,Transposed ballad pattern
+D Ballad Flow,D | Bm | G | A,Ballad,Strong major-minor balance
+A Ballad Flow,A | F#m | D | E,Ballad,Transposed to A major
+E Ballad Flow,E | C#m | A | B,Ballad,Smooth in E major
+F Ballad Flow,F | Dm | Bb | C,Ballad,Sweet F major sound
+C Rock Drive,C | F | G | C,Rock,Basic I–IV–V–I rock pattern
+G Rock Drive,G | C | D | G,Rock,Guitar-friendly in G
+D Rock Drive,D | G | A | D,Rock,Transposed I–IV–V–I
+A Rock Drive,A | D | E | A,Rock,Strong A major rock pattern
+E Rock Drive,E | A | B | E,Rock,Power-chord staple
+F Rock Drive,F | Bb | C | F,Rock,Classic I–IV–V in F
+Bb Rock Drive,Bb | Eb | F | Bb,Rock,Brass-band rock vibe
+C Folk Turn,C | G | Am | G,Folk,Loop with motion back to G
+G Folk Turn,G | D | Em | D,Folk,Same but in G
+D Folk Turn,D | A | Bm | A,Folk,Folk song loop
+A Folk Turn,A | E | F#m | E,Folk,Soft and open-sounding
+E Folk Turn,E | B | C#m | B,Folk,Folk-friendly loop in E
+F Folk Turn,F | C | Dm | C,Folk,Open and mellow
+C Minor Emotion,Am | F | C | G,Emotional,Minor-driven pop ballad
+G Minor Emotion,Em | C | G | D,Emotional,"In G key, but Em led"
+D Minor Emotion,Bm | G | D | A,Emotional,Relative minor centric
+A Minor Emotion,F#m | D | A | E,Emotional,Deep and flowing minor
+E Minor Emotion,C#m | A | E | B,Emotional,Minor-led ballad
+F Minor Emotion,Dm | Bb | F | C,Emotional,Soulful F major balance
+C Doo-Wop,C | Am | F | G,Oldies,1950s doo-wop
+G Doo-Wop,G | Em | C | D,Oldies,Same loop transposed
+D Doo-Wop,D | Bm | G | A,Oldies,Nostalgic flow
+A Doo-Wop,A | F#m | D | E,Oldies,Classic in A
+E Doo-Wop,E | C#m | A | B,Oldies,Fits vocal groups
+F Doo-Wop,F | Dm | Bb | C,Oldies,Sweet 50s sound
+C Circle Progression,C | F | Bdim | Em | Am | Dm | G | C,Classical,Circle of 5ths in C
+G Circle Progression,G | C | F#dim | Bm | Em | Am | D | G,Classical,Same cycle in G
+D Circle Progression,D | G | C#dim | F#m | Bm | Em | A | D,Classical,Smooth cycle in D
+A Circle Progression,A | D | G#dim | C#m | F#m | Bm | E | A,Classical,Extended cadence
+E Circle Progression,E | A | D#dim | G#m | C#m | F#m | B | E,Classical,Circle of 5ths in E
+F Circle Progression,F | Bb | Edim | Am | Dm | Gm | C | F,Classical,Cycle in F
+Bb Circle Progression,Bb | Eb | Adim | Dm | Gm | Cm | F | Bb,Classical,Strong in brass keys
+C Cadence,C | G | C,Classical,Simple authentic cadence
+G Cadence,G | D | G,Classical,Same in G
+D Cadence,D | A | D,Classical,Same in D
+A Cadence,A | E | A,Classical,Strong finality
+E Cadence,E | B | E,Classical,Guitar standard ending
+Cadential Perfection,C|G|C,Classical Cadence,Standard perfect cadence resolving tonic–dominant–tonic.
+Extended Cadence,C|G|C|F|G|C,Classical Cadence,Embellished cadence cycle common in Chopin’s endings.
+Deceptive Cadence,C|G|Am,Classical Cadence,Dominant moves deceptively to vi (relative minor).
+Chromatic Cadence,C|E|F|G|C,Classical Chromaticism,Use of borrowed mediant chord for tension.
+Circle of Fifths I,C|F|Bdim|Em|Am|Dm|G|C,Circle of Fifths,Complete diatonic circle progression.
+Circle of Fifths II,C|Am|Dm|G|C,Circle of Fifths,Shortened fifths cycle.
+Chromatic Falling Bass,C|Bdim|Am|G|F|E|Dm|G|C,Voice Leading,Stepwise bass motion beneath harmony.
+Borrowed Minor,C|Fm|G|C,Modal Mixture,Use of iv from parallel minor.
+Augmented Sixth Cadence,C|A♭7|G|C,Chromatic Cadence,German augmented sixth chord resolving to dominant.
+Neapolitan Cadence,C|D♭|G|C,Modal Mixture,Neapolitan chord functioning as predominant.
+Minor Lament,Am|G|F|E,Minor Progression,Descending bass in a minor key.
+Minor Deceptive,Am|E|F|G|Am,Minor Progression,Deceptive resolution in minor.
+Diminished Leading,C|Bdim|C,Diminished Usage,Typical leading-tone resolution.
+Chromatic Slide,C|C#dim|Dm|G|C,Chromatic Voice Leading,Chromatic passing diminished chord.
+Parallel Modulation I,C|A7|Dm|G|C,Secondary Dominant,Use of V7/ii to expand.
+Parallel Modulation II,C|E7|Am|Dm|G|C,Secondary Dominant,Use of V7/vi and V7/ii.
+Parallel Modulation III,C|B7|Em|Am|Dm|G|C,Secondary Dominant,Dominant applied to mediant.
+Relative Modulation,Am|Dm|G|C|F|Bdim|Em|Am,Circle in Relative Minor,Chopin’s minor expansions.
+Suspended Resolution,Gsus4|G|C,Suspension,Tension resolved into tonic.
+Picardy Third,Am|E|A (major),Minor to Major,Minor work ending with raised third.
+Chromatic Bass Walk,C|E|Eb|Dm|G|C,Chromaticism,Chromatic bass under tonic prolongation.
+Diminished Expansion,C|A7|Dm|F#dim|G|C,Chromatic Harmony,Chain of applied dominants.
+Phrygian Cadence,Am|F|G|Am,Minor Cadence,Medieval-influenced cadence.
+Falling Thirds,C|Am|F|Dm|G|C,Sequence,Third-relations sequence.
+Rising Thirds,C|Em|G|Bdim|Dm|F|Am|C,Sequence,Ascending thirds sequence.
+Chopin’s Nocturne Progression I,C|Fm|Ab|G|C,Romantic Color,Borrowed iv and bVI.
+Chopin’s Nocturne Progression II,Am|C|F|Dm|E|Am,Romantic Minor,Chromatic color in A minor.
+Chromatic Dominant Expansion,C|G7|Db7|C,Chromaticism,Tritone substitution effect.
+Minor Circle of Fifths,Am|Dm|G|C|F|Bdim|Em|Am,Circle of Fifths,Minor version of cycle.
+Chromatic Sequence,C|A7|Dm|Bb7|Eb|Ab|G|C,Chromatic Modulation,Parallel chromatic sequence.
+Chopin Mazurka I,C|F|D7|G|C,Dance Progression,Typical folk-inspired harmony.
+Chopin Mazurka II,Am|E7|Am|G|C,Dance Progression,Minor tonic alternation.
+Polonaise Expansion I,C|G|C|A7|Dm|G|C,Dance Progression,Cadential expansion.
+Polonaise Expansion II,Am|F|Dm|E|Am,Dance Progression,Minor polonaise progression.
+Chopin Ballade I,C|A7|Dm|G|C|Em|A7|Dm|G|C,Extended Romantic,Long cadential expansion.
+Chopin Ballade II,Am|F|Dm|G|C|E7|Am,Extended Romantic,Use of borrowed chords.
+Chopin Waltz I,C|E7|Am|D7|G|C,Dance Progression,Typical Romantic waltz movement.
+Chopin Waltz II,Am|C|F|Dm|G|C|Am,Dance Progression,Alternation of major and minor.
+Chromatic Passing Neapolitan,C|Db|C|G|C,Chromatic Cadence,Passing Neapolitan motion.
+Modal Borrowing I,C|Ab|Bb|G|C,Modal Mixture,Borrowed ♭VI and ♭VII.
+Modal Borrowing II,Am|F|G|Am,Modal Mixture,Aeolian emphasis.
+Chopin Prelude I,C|Fm|C|G|C,Prelude Style,Chromatic borrowed minor.
+Chopin Prelude II,Am|E|F|G|Am|Dm|E|Am,Prelude Style,Minor oscillation with chromaticism.
+Chopin Etude I,C|G|A7|Dm|G|C,Etude Style,Virtuosic harmonic pacing.
+Chopin Etude II,Am|C|F|Bdim|E|Am,Etude Style,Minor etude motion.
+Romantic Chain Dominants,C|A7|D7|G7|C,Secondary Dominants,Classic chain progression.
+Chopin Chromatic Bridge,C|Ab|F#dim|G|C,Chromatic Modulation,Romantic bridge progression.
+Chopin Expansion I,C|F|G|C|A7|Dm|G|C,Expansion,Extended dominant cycle.
+Chopin Expansion II,Am|F|C|G|Am|E7|Am,Expansion,Chromatic extension in minor.
+Dreamy Nights,Cmaj7 | Am7 | Dm7 | G7,Lo-Fi,"Classic ii–V–I with a lo-fi touch, jazzy and smooth."
+Midnight Study,Fmaj7 | Gm7 | Em7b5 | A7,Lo-Fi,Jazzy cycle through major 7ths with tension–release.
+Rainy Mood,Dm7 | G7 | Cmaj7 | A7,Lo-Fi,ii–V–I with a borrowed dominant for color.
+Chillhop Flow,Am7 | Dm7 | G7 | Cmaj7,Lo-Fi,"Relaxed turnaround, common in lo-fi beats."
+Coffee Shop,Bbmaj7 | Ebmaj7 | Am7b5 | D7,Lo-Fi,Jazzy major 7ths with half-diminished tension.
+Sunset Haze,Gm7 | C7 | Fmaj7 | Fmaj9,Lo-Fi,Smooth ii–V–I ending on lush maj9.
+Bedroom Vibes,Cmaj7 | Gm7 | Fmaj7 | Em7,Lo-Fi,Modal borrowing creates mellow movement.
+Study Session,Em7 | A7 | Dmaj7 | Gmaj7,Lo-Fi,"ii–V–I–IV in D, bright but chilled."
+Vinyl Dust,Abmaj7 | Dbmaj7 | Fm7 | Eb7,Lo-Fi,"Soulful, common in sampled jazz chords."
+Nostalgia Loop,Cmaj7 | Fmaj7 | Am7 | G13,Lo-Fi,Simple but enhanced with G13 at the end.
+Cloudy Skies,Fm7 | Bb7 | Ebmaj7 | Abmaj7,Lo-Fi,Jazzy circle of fourths vibe.
+Late Night Drive,Bm7 | E7 | Amaj7 | Dmaj7,Lo-Fi,Smooth progression in A major.
+Cracked Cassette,Gm7 | F7 | Bbmaj7 | Ebmaj7,Lo-Fi,"Jazzy dominant movement, laid-back."
+Soft Focus,Cmaj9 | Am7 | Dm7 | G13,Lo-Fi,Extended chords for dreamy textures.
+Old Memories,Em7b5 | A7 | Dm7 | G7,Lo-Fi,Classic ii–V–i in minor.
+Echo Chamber,Am7 | D7 | Gmaj7 | Cmaj7,Lo-Fi,Jazz turnaround with warmth.
+Chillwave Drift,Dmaj7 | F#m7 | Bm7 | E9,Lo-Fi,RnB-inspired progression with dominant 9.
+Static Warmth,Abmaj7 | Fm7 | Dbmaj7 | Eb7,Lo-Fi,"Jazzy and smooth, lo-fi staple."
+Time Capsule,Fmaj7 | G13 | Em7 | Am7,Lo-Fi,Relaxed IV–V–iii–vi cycle.
+Cozy Room,Cmaj7 | Fmaj9 | G13 | Cmaj7,Lo-Fi,Expansive IV and V with soft cadence.
+Lo-Fi Nights,Bm7b5 | E7 | Am7 | Am9,Lo-Fi,Minor ii–V–i with lush 9th.
+Library Session,Dmaj7 | C#m7 | F#m7 | B7,Lo-Fi,Dreamy ii–V with jazz tension.
+Warm Crackle,Gmaj7 | Bm7 | Em7 | Am7,Lo-Fi,Relaxed modal interchange feel.
+Jazzhop Loop,C#m7 | F#7 | Bmaj7 | Emaj7,Lo-Fi,Jazzy ii–V–I–IV.
+Candlelight,Fm7 | Bb7 | Ebmaj7 | Cm7,Lo-Fi,Classic jazz vibe with lo-fi warmth.
+Vintage Soul,Gmaj7 | F#m7 | Bm7 | A7,Lo-Fi,Smooth I–vi–ii–V.
+Rain on Window,Cmaj7 | E7 | Am7 | Dm7,Lo-Fi,Borrowed dominant for lo-fi color.
+Loop Tape,Ebmaj7 | Abmaj7 | Fm7 | Bb7,Lo-Fi,Jazzy 7th cycle.
+Half-Awake,Am7b5 | D7 | Gm7 | C7,Lo-Fi,Minor ii–V–i with chromatic movement.
+Lo-Fi Groove,Bm7 | E7 | Amaj7 | F#m7,Lo-Fi,Relaxed ii–V–I–vi.
+Blurry Lights,Cmaj7 | Gm7 | Fmaj7 | Dm7,Lo-Fi,Modal mixture gives hazy vibe.
+Memory Reel,Abmaj7 | Bb7 | Ebmaj7 | Fm7,Lo-Fi,Jazzy but nostalgic.
+Soft Grain,Dm7 | G7 | Cmaj9 | Fmaj7,Lo-Fi,ii–V–I with extended chords.
+Daydreaming,Em7 | A7 | Dmaj9 | Gmaj7,Lo-Fi,Warm ii–V–I–IV loop.
+Broken Radio,Fm7 | Ebmaj7 | Abmaj7 | Dbmaj7,Lo-Fi,Smooth descending cycle.
+Lofi Groove II,Gm7 | C7 | Fmaj7 | Dm7,Lo-Fi,Relaxed ii–V–I with minor touch.
+Vinyl Loop,Cm7 | F7 | Bbmaj7 | Ebmaj7,Lo-Fi,Classic jazz turnaround.
+Faded Journal,Am7 | G7 | Fmaj7 | Em7,Lo-Fi,Descending nostalgic motion.
+Cozy Beats,Abmaj7 | Dbmaj7 | Fm7 | Eb7,Lo-Fi,Soulful and jazzy.
+Hazy Loop,Bm7b5 | E7 | Am9 | Dm7,Lo-Fi,Minor cycle with lush 9ths.
+Night Walk,Dmaj7 | F#m7 | Em7 | A13,Lo-Fi,Soft and atmospheric.
+Calm Study,Gmaj7 | Cmaj7 | Am7 | D9,Lo-Fi,Bright lo-fi tension.
+Hushed Moments,Bbmaj7 | Ebmaj9 | Fm7 | Gm7,Lo-Fi,Extended major 9th sweetness.
+Sleepy Time,Cmaj7 | A7 | Dm7 | G7,Lo-Fi,Relaxed standard jazz cadence.
+Infinite Loop,Ebmaj7 | Gm7 | Cm7 | F7,Lo-Fi,Soulful lo-fi staple.
+Melancholy Night,Fm7 | Bb7 | Ebmaj7 | Abmaj7,Lo-Fi,Dreamy ii–V–I–IV.
+Lo-Fi Sunrise,Gmaj7 | F#m7 | B7 | Em7,Lo-Fi,Jazzy with borrowed dominant.
+Tape Hiss,Amaj7 | Dmaj7 | Bm7 | E9,Lo-Fi,Jazzy lo-fi turnaround.
+Still Awake,Dm7 | G7 | Cmaj7 | Am7,Lo-Fi,Relaxed ii–V–I–vi.
+Lo-Fi Rewind,Abmaj7 | Fm7 | Dbmaj7 | Eb7,Lo-Fi,Classic jazzy lo-fi cycle.
+Standard 12-Bar Blues (C),C7|F7|C7|C7|F7|F7|C7|A7|D7|G7|C7|G7,Blues,"The foundation of blues music, classic 12-bar form with I7, IV7, V7."
+Quick Change Blues (C),C7|F7|C7|C7|F7|F7|C7|A7|D7|G7|C7|G7,Blues,Same as standard 12-bar but with an early IV chord at bar 2.
+Slow Blues (A),A7|D7|A7|A7|D7|D#dim7|A7|F#7|B7|E7|A7|E7,Blues,"Minor chromatic passing chords for emotional, slow blues feel."
+Jazz Blues (Bb),Bb7|Eb7|Bb7|Gm7C7|Fm7|Bb7|Cm7F7|Bb7G7|Cm7F7,Blues/Jazz,Adds ii–V substitutions for a more complex jazz sound.
+Minor Blues (Cm),Cm7|Fm7|Cm7|Cm7|Fm7|F#dim7|Cm7|Ab7|G7|Cm7G7,Blues/Minor,Classic minor blues with dim7 passing chord.
+Stormy Monday Blues (G),G7|C9|G7|G7|C9|C#dim7|G7|E7#9|A9|D9|G7|D9,Blues/Jazz,T-Bone Walker’s jazz-inspired slow blues progression.
+Chicago Shuffle Blues (E),E7|A7|E7|E7|A7|A7|E7|C#7|F#7|B7|E7|B7,Blues/Shuffle,"Standard Chicago electric blues shuffle, very common in rock."
+Texas Blues (D),D7|G7|D7|D7|G7|G7|D7|A7|G7|D7|A7|D7,Blues,"Texas blues style, strong I7 emphasis."
+Rock Blues (A),A5|D5|A5|A5|D5|D5|A5|E5|D5|A5|E5|A5,Blues/Rock,Power chord-based blues for rock/blues crossover.
+Turnaround Blues (C),C7|A7|D7|G7,Blues/Turnaround,"Standard blues turnaround progression, resolves strongly back to I."
+Classic 12-Bar Blues in G,G7|C7|G7|G7|C7|C7|G7|E7|A7|D7|G7|D7,Blues,"Standard 12-bar blues form, key of G."
+Quick Change Blues in A,A7|D7|A7|A7|D7|D7|A7|F#7|B7|E7|A7|E7,Blues,"Blues with an early chord change, key of A."
+Slow Blues in C,C7|F7|C7|C7|F7|F#dim7|C7|A7|D7|G7|C7|G7,Blues,"Slow drag-style blues, includes F#dim7 passing chord."
+Chicago Blues in D,D7|G7|D7|D7|G7|G7|D7|B7|E7|A7|D7|A7,Blues,"Chicago-style shuffle progression, key of D."
+Minor Blues in Am,Am7|Dm7|Am7|Am7|Dm7|Dm7|Am7|F7|E7|E7|Am7|E7,Blues,A minor blues progression often used in jazz and funk.
+Jazz Blues in Bb,Bb7|Eb7|Bb7|Fm7Bb7|Eb7|Edim7|Bb7G7|Cm7F7|Bb7G7|Cm7F7,Blues/Jazz,Jazz-influenced blues with II-V cadences and substitutions.
+Texas Blues in E,E7|A7|E7|E7|A7|A7|E7|C#7|F#7|B7|E7|B7,Blues,"Texas shuffle-style blues progression, key of E."
+West Coast Blues in F,F7|Bb7|F7|F7|Bb7|Bdim7|F7|A7|D7|G7|C7|F7,Blues,"Jazzy, jump blues progression with diminished passing chord."
+Delta Blues in Gm,Gm7|Cm7|Gm7|Gm7|Cm7|Cm7|Gm7|Eb7|D7|D7|Gm7|D7,Blues,"Dark, moody minor blues progression."
+Gospel Blues in C,C7|F7|C7|C7|F7|F7|C7|A7|D7|G7|C7|G7,Blues/Gospel,Gospel-flavored blues with strong IV and V pull.
+Standard 12-Bar Blues in C,C7|F7|C7|C7|F7|F7|C7|A7|D7|G7|C7|G7,Blues,"The classic 12-bar shuffle in C, foundational for all blues playing."
+Quick Change Blues in G,G7|C7|G7|G7|C7|C7|G7|E7|A7|D7|G7|D7,Blues,"Quick change (I–IV in bar 2), adding harmonic motion."
+Jazz-Blues in F,F7|Bb7|F7|Cm7F7|Bb7|Bdim7|F7|A7|D7|Gm7C7|F7D7|Gm7C7,Jazz Blues,Enriched with ii–V substitutions and passing chords.
+Minor Blues in Am,Am7|Dm7|Am7|Am7|Dm7|Dm7|Am7|F7|E7|Dm7|Am7E7|Am7,Minor Blues,"Standard 12-bar minor blues, moody and darker."
+Texas Blues in E,E7|A7|E7|E7|A7|A7|E7|C7|A7|B7|E7|B7,Blues,Driving shuffle with a classic Texas roadhouse feel.
+Chicago Blues in D,D7|G7|D7|D7|G7|G#dim7|D7|B7|E7|A7|D7A7|D7,Blues,Incorporates chromatic diminished movement and turnarounds.
+Slow Minor Blues in Gm,Gm7|C7|Gm7|Gm7|Cm7|Cm7|Gm7|Eb7|D7,Gm7 C7 | Gm7 D7 | Gm7,Minor Blues
+Uptown Blues in Bb,Bb7|Eb7|Bb7|Bb7|Eb7|Edim7|Bb7|G7|C7|F7|Bb7F7|Bb7,Blues,A brighter blues with diminished and secondary dominants.
+Country Blues in A,A7|D7|A7|A7|D7|D7|A7|F#7|B7|E7|A7E7|A7,Country Blues,"Typical country shuffle, often used with steel guitar."
+Slow Blues in F#,F#7|B7|F#7|F#7|B7|B7|F#7|D7|G#7|C#7|F#7C#7|F#7,Blues,"A heavy, soulful slow blues form."
+Standard 12-Bar Blues in C,C7|F7|C7|C7F7|F7|C7|A7D7|G7|C7|G7,Blues,"Classic 12-bar blues progression in C major, staple for countless blues songs."
+Quick Change Blues in G,G7|C7|G7|G7C7|C7|G7|E7A7|D7|G7|D7,Blues,"Uses the quick change (IV in bar 2) for variety, key of G."
+Minor Blues in Dm,Dm7|Gm7|Dm7|Dm7Gm7|Gm7|Dm7|A7Bb7|A7|Dm7|A7,Blues (Minor),"Minor 12-bar blues in D minor, often used in jazz-blues."
+Jazz Blues in F,F7|Bb7|F7|Cm7F7Bb7|Bdim7|F7|A7D7|Gm7C7|F7|C7,Jazz Blues,"Adds ii–V turnarounds and passing chords, classic jazz-style blues."
+Slow Blues in A,A7|D7|A7|A7D7|D7|A7|F#7B7|E7|A7|E7,Blues,"Slow expressive A blues, common in guitar-driven ballads."
+Funky Blues in E,E7|A7|E7|E7A7|A7|E7|C#7F#7|B7|E7|B7,Blues (Funk),"Upbeat, funky blues in E, with dominant substitutions for groove."
+Turnaround Blues in Bb,Bb7|Eb7|Bb7|F7Eb7|Edim7|Bb7|G7C7|F7|Bb7|F7,Blues,"Strong turnaround emphasis, Bb blues with chromatic approach chords."
+Gospel-Style Blues in G,G7|C9|G7|Em7A7C9|C9|G7|E7Am7|D7|G7|D7,Blues (Gospel),"Incorporates gospel-inspired chords in G, very soulful."
+Delta Blues in D,D7|G7|D7|D7G7|G7|D7|A7G7|D7|A7|D7,Blues (Delta),"Simple raw Delta blues feel in D, traditional bottleneck/slide vibe."
+Stormy Monday Changes (T-Bone Walker style),G7|C9|G7|G7C9|C#dim7|G7|E7Am7|D9|G7|D9,Blues (Slow Jazz),"Based on “Stormy Monday”, chromatic & jazzy in G."

@@ -1,0 +1,100 @@
+﻿Pattern Key,Name,Description
+PIMA,P I M A,"Basic ascending pattern (classical, folk)"
+PAMI,P A M I,Reverse pattern (descending)
+PIMI,P I M I,Travis-picking variation
+PMIM,P M I M,Smooth cyclic feel
+PIAM,P I A M,Broken chord pattern
+PIMAMI,P I M A M I,"6-note arpeggio, classical or romantic"
+PIMPIM,P I M P I M,Repeating thumb-integrated arpeggio
+PMAMIM,P M A M I M,Used in classical tremolo simulations
+P(IM)(AM),P (I M) (A M),"Syncopated roll (folk, pop)"
+PMIPMI,P M I P M I,Common 6/8 arpeggio feel
+PAIM,P A I M,"Elegant roll, often used in nylon/classical"
+PMIMAMI,P M I M A M I,Flamenco or Spanish style feel
+PXPIMA,P X P I M A,Thumb hit + arpeggio (percussive folk)
+TIMA,T I M A,Hybrid-picking base pattern
+TAMI,T A M I,Reverse hybrid-picking roll
+T(IM)T(IM),T (I M) T (I M),Hybrid alternate pattern
+TITMTA,T I T M T A,Chicken-pickin’ style (country/telecaster)
+PAMAI,P A M A I,Romantic cyclic pattern
+PMAPMA,P M A P M A,Alternating thumb & roll (folk/pop)
+P(IMA)(AMI),P (I M A) (A M I),3-finger rolls with reversals
+PIMAIM,P I M A I M,Spanish guitar rhythm cycle
+PAMXPAM,P A M X P A M,Flamenco rasgueado imitation
+TIAITI,T I A I T I A,Hybrid reverse roll with anchor
+TIMTIM,T I M T I M,Fast hybrid-picking flat rolls
+P(IA)P(IA),P (I A) P (I A),Alternating bass with double pluck
+PIMPMI,P I M P M I,Inverted Travis pattern
+PMAPAM,P M A P A M,Symmetrical roll (used in waltz feels)
+TIMAMI,T I M A M I,Hybrid cascade roll
+PIXMI,P I X M I,Percussive thumb & finger integration
+PMIAX,P M I A X,Classical arpeggio with slap
+PIMAI,P I M A I,5-note classical pattern
+PMIAMP,P M I A M P,Ending on thumb creates looping motion
+PI(MA),P I (M A),"Delay pluck effect, often used in folk/pop"
+TITATM,T I T A T M,Country gallop hybrid pattern
+PXPXPX,P X P X P X,"Percussive fingerstyle, slap grooves"
+PAMIMA,P A M I M A,Arpeggio roll with inside repetition
+TIATIA,T I A T I A,Fast hybrid rolls (bluegrass)
+PIMXMI,P I M X M I,Percussive syncopated arpeggio
+T(IMA),T (I M A),Strum and pluck hybrid pattern
+PMA(tremolo),P M A (tremolo),Classical tremolo (alternating treble)
+PAMIPAMI,P A M I P A M I,Full cycle pattern
+TMITMI,T M I T M I,Smooth hybrid loop
+PIAXPIA,P I A X P I A,Percussive touch with repeat
+PIMA(hold),P I M A (hold),Chord pluck and sustain
+TITMTI,T I T M T I,Hybrid triplet licks
+PXPXIMA,P X P X I M A,Percussion + arpeggio for dynamic feel
+P(IMA)P(AMI),P (I M A) P (A M I),Forward & backward rolls
+TXTXIM,T X T X I M,Percussive hybrid rhythm
+PAIMIA,P A I M I A,Sweet ascending-descent
+TIXAIM,T I X A I M,Hybrid-pick with slap/percussive treble
+PIMAPM,P I M A P M,Arpeggio loop with alternating closure
+PIAI,P I A I,Alternating treble focus
+PMIMIM,P M I M I M,Cyclic driving feel
+TAMTAM,T A M T A M,Hybrid alternating roll
+PIAMI,P I A M I,Folk arpeggio variation
+PIMA(MI),P I M A (M I),Forward with partial reverse
+PMAXPM,P M A X P M,Percussive closure in arpeggio
+TIMITI,T I M I T I,Country hybrid rolls
+PIAMP,P I A M P,Bass anchor arpeggio
+PMIAI,P M I A I,Gentle folk cycle
+TAPMTA,T A P M T A,Chicken-pickin’ gallop
+PIAMIA,P I A M I A,Smooth flowing feel
+PIMPAMI,P I M P A M I,Expanded Travis roll
+TMITAM,T M I T A M,Hybrid cascade with gallop
+PIA(PM),P I A (P M),Staggered finger roll
+PMXPMI,P M X P M I,Percussive loop arpeggio
+PIMAM,P I M A M,Compact 5-note arpeggio
+TIAXTI,T I A X T I,Percussive hybrid accent
+PMIA(PM),P M I A (P M),Rolling with bass repeat
+PAIAMP,P A I A M P,Romantic arpeggio close
+TMITAMT,T M I T A M T,Country triplet feel
+PIXPAM,P I X P A M,Percussive integrated arpeggio
+PAMIAM,P A M I A M,Smooth descending cycle
+PIAIA,P I A I A,Two-finger trebles alternating
+TMAPTM,T M A P T M,Hybrid rolling arpeggio
+PMIMPA,P M I M P A,Waltz-time arpeggio
+PIMXAI,P I M X A I,Percussive folk syncopation
+TIAMI,T I A M I,Hybrid cross-pick roll
+PIMAMIAM,P I M A M I A M,Extended classical arpeggio
+PIAXAI,P I A X A I,Percussive accent on treble
+PMAITM,P M A I T M,Hybrid classical pattern
+PIAMPIM,P I A M P I M,Travis-inspired extended roll
+TAMIM,T A M I M,Fast hybrid-picking cycle
+PAXPAX,P A X P A X,Percussive roll imitation
+PIMAMP,P I M A M P,Arpeggio with thumb landing
+TIAMP,T I A M P,Hybrid pluck + bass
+PMIA(PA),P M I A (P A),Reverse loop arpeggio
+PIAIMA,P I A I M A,Flowing arpeggio roll
+TAMIXT,T A M I X T,Country percussive hybrid
+PIMPAM,P I M P A M,Travis roll variation
+PMAMIA,P M A M I A,Romantic roll with bass anchors
+TMITAMX,T M I T A M X,Hybrid percussive roll
+PIAMPM,P I A M P M,Bass anchored classical cycle
+PIMAMIAX,P I M A M I A X,Extended arpeggio with slap
+TXIMTA,T X I M T A,Percussive country gallop
+PIMAMPAM,P I M A M P A M,Romantic extended loop
+PIA(PMI),P I A (P M I),Broken delayed arpeggio
+TIMATIM,T I M A T I M,Bluegrass hybrid roll
+PIMAIAX,P I M A I A X,Classical-folk fusion with percussive close
