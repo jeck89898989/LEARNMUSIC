@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guitar Pro Files - Manic Rules</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Cal+Sans:wght@400;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        .guitarpro-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        .back-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #444444 0%, #666666 100%);
+            color: white;
+            text-decoration: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            margin-bottom: 40px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+        
+        .back-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+        }
+        
+        .guitarpro-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+        
+        .guitarpro-card {
+            background: rgba(32, 32, 32, 0.95);
+            border: 1px solid rgba(64, 64, 64, 0.3);
+            border-radius: 16px;
+            padding: 30px;
+            text-align: center;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .guitarpro-card:hover {
+            transform: translateY(-8px);
+            border-color: rgba(128, 128, 128, 0.4);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+        
+        .file-type {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            color: #cccccc;
+        }
+        
+        .download-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #444444 0%, #666666 100%);
+            color: white;
+            text-decoration: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            margin-top: 15px;
+        }
+        
+        .download-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <div class="guitarpro-container">
+        <a href="index.html" class="back-button">← Back to Apps</a>
+        
+        <header style="text-align: center; margin-bottom: 60px;">
+            <h1 style="font-size: 3rem; margin-bottom: 20px; color: #ffffff;">Guitar Pro Files</h1>
+            <p style="font-size: 1.2rem; color: #cccccc;">Practice tabs, backing tracks, and Guitar Pro exercises</p>
+        </header>
+        
+        <div id="guitarpro-list">
+            <div class="guitarpro-grid">
+                <div class="guitarpro-card">
+                    <div class="file-type">.gp5</div>
+                    <div style="font-size: 3rem; margin-bottom: 20px;">🎸</div>
+                    <h3 style="color: #ffffff; margin-bottom: 15px;">Sample Scale Exercise</h3>
+                    <p style="color: #cccccc; margin-bottom: 25px;">Practice major scales across the fretboard with backing track</p>
+                    <a href="sample-scale.gp5" download class="download-button">
+                        Download GP5
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Future: Implement Guitar Pro file detection and display
+            // This would scan for .gp, .gp5, .gpx files in the directory
+        });
+    </script>
+</body>
+</html>
